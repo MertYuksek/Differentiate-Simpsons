@@ -1,2 +1,2 @@
 # Differentiate-Simpsons
-Using Tensorflow, OpnenCV
+Used Tensorflow, OpnenCV
